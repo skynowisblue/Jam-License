@@ -1,6 +1,6 @@
 # Jam License
 
-![Jam License Logo](logo.png)
+![Jam License Logo](JamLogo.png)
 
 **Version:** 1.00  
 **Author:** Revanth  
