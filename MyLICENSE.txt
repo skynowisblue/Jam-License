@@ -1,0 +1,34 @@
+Jam LICENSE
+Copyright (c) 2026 Revanth
+V:1.00
+Preamble:This License Gives You Protection Against People Who Will Sell Your Code Without Your Permission
+
+Note:This License Is Free Forever And Ever
+
+Note:This License Is Not Taking Responsibility Of The Damage Caused
+
+Note:This License Is NOT Taking Responsibility of Any LICENSE Pretending To Be This LICENSE
+
+Note:This License Cant Be Used For Lies,Threats,Take Ownership Against Others
+
+TERMS:
+   1.No One Can Sell Your Code Without YOUR Permission:
+      Code Licensed By This License Cant Be Sold Without Your Permission
+      
+   2.No one Can Pretend To Have Wrote Your Code:
+        No One Can Claim Ownership Of Your Code
+	
+   3.Modification Of This LICENSE Is Allowed Under 4 Conditions:
+        1.You Must Share The Modified License And This LICENSE Along With It
+		2.The Modified LICENSE TERMS Cant Contain Things About Any Damage Covered
+		3.You Must Also Add The Name "Revanth" Along With The Modified Version
+        4.You Cant Sell Your Modified Version Of This LICENSE 		
+   
+   
+   4.Modification Of Your Code Is Allowed If Your Permission Is Given
+   
+   5.You Cant Misuse Of Missing Important TERMS Existing In The Previous Versions Of This LICENSE 
+   
+   6.If You Break The Rules Of This LICENSE You Will Be Unable To Use This LICENSE Anymore In The Future. 
+   
+This LICENSE IS Made By "--Revanth--"   
