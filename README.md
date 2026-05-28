@@ -1,4 +1,6 @@
 # Jam License
+![Jam License](https://img.shields.io/badge/license-Jam-blue)
+
 
 ![Jam License Logo](JamLogo.png)
 
