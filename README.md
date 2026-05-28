@@ -1,5 +1,7 @@
 # Jam License
 
+![Jam License Logo](logo.png)
+
 **Version:** 1.00  
 **Author:** Revanth  
 **Release Date:** 28 August 2026  
